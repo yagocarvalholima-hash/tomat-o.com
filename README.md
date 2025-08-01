@@ -15,4 +15,4 @@ Colheita: A colheita ocorre quando os frutos estão completamente maduros e com 
 Dicas adicionais:
 Espaçamento: Deixe espaço suficiente entre as plantas para garantir um bom desenvolvimento. 
 Suporte: Utilize estacas ou tutores para apoiar o crescimento das plantas, especialmente em variedades mais altas. 
-Limpeza: Remova folhas mortas ou doentes para evitar o desenvolvimento de doenças. 
+Limpeza: Remova folhas mortas ou doentes para evitar o desenvolvimento de doenças.
